@@ -1,7 +1,6 @@
 # Hi, I'm Sameera 👋
 
-Aspiring Software Engineer | Web Developer | DSA  
-Currently building projects to strengthen problem-solving and web development skills and preparing for coding interviews, grinding DSA!
+I am working on building projects to strengthen my problem-solving and web development skills and preparing for coding interviews, and ofc grinding DSA!!
 
 ---
 
