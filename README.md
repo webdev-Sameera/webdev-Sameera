@@ -5,14 +5,14 @@ Currently building projects to strengthen problem-solving and web development sk
 
 ---
 
-## 🔭 Currently Working On
+## Currently Working On
 - **Resume Coach AI**: A Resume builder website with AI tips and suggestion for role based modification or guidance for freshers using NLP. 
 - **Portfolio Website**: Clean, responsive web portfolio showcasing projects and skills. 
 - Most importantly : Strengthening **DSA concepts** and preparing for coding rounds and interviews.
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 **Languages:** Java, C++, C, SQL  
 **Frontend:** HTML, CSS,Bootstrap 
 **Backend:** Node.js, Express.js 
@@ -21,13 +21,6 @@ Currently building projects to strengthen problem-solving and web development sk
 
 ---
 
-## 🛠 Skills
-- Web Development (Responsive & Interactive UI)  
-- Data Structures & Algorithms
-- Operating Sytems
-- DBMS   
-
----
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/sameerapujari/](https://www.linkedin.com/in/sameera-pujari-036974283))  
