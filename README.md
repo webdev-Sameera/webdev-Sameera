@@ -1,7 +1,6 @@
-# Hi, I'm Sameera 👋
+# Hey there?
 
-I am working on building projects to strengthen my problem-solving and web development skills, preparing for coding interviews and ofc grinding DSA!!
-
+Me: Building projects, DSA practice and more pratice, and a curious mind.
 ---
 
 ## Currently Working On
