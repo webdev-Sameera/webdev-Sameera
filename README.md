@@ -1,6 +1,7 @@
 # Hey there?
 
 Me: Building projects, DSA practice and more pratice, and a curious mind.
+
 ---
 
 ## Currently Working On
@@ -21,12 +22,8 @@ Me: Building projects, DSA practice and more pratice, and a curious mind.
 
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/sameerapujari/](https://www.linkedin.com/in/sameera-pujari-036974283))  
-
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:sameerapujari.15@gmail.com)
-
+mailto : sameerapujari.15@gmail.com
 ---
 
 
-> PS :
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
