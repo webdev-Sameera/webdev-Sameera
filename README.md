@@ -13,7 +13,7 @@ Me: Building projects, DSA practice and more pratice, and a curious mind.
 
 ## Tech Stack
 **Languages:** Java, C++, C, SQL  
-**Frontend:** HTML, CSS,Bootstrap 
+**Frontend:** HTML, CSS ,Bootstrap , JS
 **Backend:** Node.js, Express.js 
 **Database:** MongoDB, MySQL  
 **Tools & Platforms:** Git, GitHub, VS Code, Postman, Vercel, GitHub Pages  
